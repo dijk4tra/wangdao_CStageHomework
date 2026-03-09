@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day04_basic_数组\15_发牌\main.c(9,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\liwenshuo\source\repos\Day04_basic_数组\15_发牌\main.c(12,12): warning C4552: ”%“: 未使用表达式结果
+C:\Users\liwenshuo\source\repos\Day04_basic_数组\15_发牌\main.c(30,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\liwenshuo\source\repos\Day04_basic_数组\15_发牌\main.c(41,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\liwenshuo\source\repos\Day04_basic_数组\15_发牌\main.c(71,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\liwenshuo\source\repos\Day04_basic_数组\15_发牌\main.c(98,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  15_发牌.vcxproj -> C:\Users\liwenshuo\source\repos\Day04_basic_数组\Debug\15_发牌.exe

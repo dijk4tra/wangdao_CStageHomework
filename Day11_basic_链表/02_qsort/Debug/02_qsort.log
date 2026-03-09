@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day11_basic_链表\02_qsort\main.c(49,10): warning C4090: “初始化”: 不同的“const”限定符
+C:\Users\liwenshuo\source\repos\Day11_basic_链表\02_qsort\main.c(50,10): warning C4090: “初始化”: 不同的“const”限定符
+C:\Users\liwenshuo\source\repos\Day11_basic_链表\02_qsort\main.c(86,14): warning C4090: “初始化”: 不同的“const”限定符
+C:\Users\liwenshuo\source\repos\Day11_basic_链表\02_qsort\main.c(88,14): warning C4090: “初始化”: 不同的“const”限定符
+C:\Users\liwenshuo\source\repos\Day11_basic_链表\02_qsort\main.c(101,14): warning C4090: “初始化”: 不同的“const”限定符
+C:\Users\liwenshuo\source\repos\Day11_basic_链表\02_qsort\main.c(102,14): warning C4090: “初始化”: 不同的“const”限定符
+  02_qsort.vcxproj -> C:\Users\liwenshuo\source\repos\Day11_basic_链表\Debug\02_qsort.exe

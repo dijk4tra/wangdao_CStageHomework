@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DB1CDD-CB70-4484-B7AA-228F9DF693AB}|Q11\\Q11.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q11\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DB1CDD-CB70-4484-B7AA-228F9DF693AB}|Q11\\Q11.vcxproj|solutionrelative:Q11\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA930CD-819F-4846-B8A6-CBFB7EDF9FA4}|Q10\\Q10.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFA930CD-819F-4846-B8A6-CBFB7EDF9FA4}|Q10\\Q10.vcxproj|solutionrelative:Q10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E42D540-BE07-4598-A58A-5605C82D9F86}|Q09\\Q09.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q09\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E42D540-BE07-4598-A58A-5605C82D9F86}|Q09\\Q09.vcxproj|solutionrelative:Q09\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30918DBB-551D-4500-8055-94AC8B4D58EB}|Q08\\Q08.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q08\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30918DBB-551D-4500-8055-94AC8B4D58EB}|Q08\\Q08.vcxproj|solutionrelative:Q08\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70023E9A-F415-4387-8FC8-63E5A04687C1}|Q07\\Q07.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q07\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70023E9A-F415-4387-8FC8-63E5A04687C1}|Q07\\Q07.vcxproj|solutionrelative:Q07\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q11\\main.c",
+              "RelativeDocumentMoniker": "Q11\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q11\\main.c",
+              "RelativeToolTip": "Q11\\main.c",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvy4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-02T13:15:02.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q10\\main.c",
+              "RelativeDocumentMoniker": "Q10\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q10\\main.c",
+              "RelativeToolTip": "Q10\\main.c",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-02T13:15:01.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q09\\main.c",
+              "RelativeDocumentMoniker": "Q09\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q09\\main.c",
+              "RelativeToolTip": "Q09\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-02T13:14:58.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q08\\main.c",
+              "RelativeDocumentMoniker": "Q08\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q08\\main.c",
+              "RelativeToolTip": "Q08\\main.c",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAxwIcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-02T13:14:56.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q07\\main.c",
+              "RelativeDocumentMoniker": "Q07\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day7_CStageHomeWork\\Q07\\main.c",
+              "RelativeToolTip": "Q07\\main.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-02T13:14:21.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

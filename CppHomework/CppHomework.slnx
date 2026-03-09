@@ -1,0 +1,42 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CStageCodeTemplate/CStageCodeTemplate.vcxproj" Id="7e9ce2a6-15fe-4f4e-b1e2-b81a579cc6c8" />
+  <Project Path="Q1/Q1.vcxproj" Id="386e9b2c-9e6c-4aa4-a7ef-78fa8212f92c" />
+  <Project Path="Q10/Q10.vcxproj" Id="e440bce8-1d69-4e3d-b3e8-a151c8b0c89d" />
+  <Project Path="Q11/Q11.vcxproj" Id="aeadb331-274d-4a94-a77d-aacda7e2cf40" />
+  <Project Path="Q12/Q12.vcxproj" Id="77ed52ed-ee3a-4975-a584-ee6f42e6b1c1" />
+  <Project Path="Q13/Q13.vcxproj" Id="1a14688b-014e-482a-9150-dc243a995c97" />
+  <Project Path="Q14/Q14.vcxproj" Id="32c0e97c-c469-43eb-9d1c-ef5039eae079" />
+  <Project Path="Q15/Q15.vcxproj" Id="62e5d96d-d7f4-453f-b865-01ef1f4b3463" />
+  <Project Path="Q16/Q16.vcxproj" Id="bfab62ad-ceec-4f7a-9f70-12e4f18fd785" />
+  <Project Path="Q17/Q17.vcxproj" Id="364542ff-4bbc-43fd-b966-b681dff5c3fa" />
+  <Project Path="Q18/Q18.vcxproj" Id="b31255e8-c527-429f-81c4-f44944da2552" />
+  <Project Path="Q19/Q19.vcxproj" Id="e114e804-48e3-42a7-9f16-c8cbdadec3f2" />
+  <Project Path="Q2/Q2.vcxproj" Id="d163ecbb-ca2c-4b09-a449-df76dbb46c66" />
+  <Project Path="Q20/Q20.vcxproj" Id="040a1ba8-fbc3-4b4e-b7aa-da7418dcf083" />
+  <Project Path="Q21/Q21.vcxproj" Id="0ad7307e-e788-427f-979c-7a56cc367ddf" />
+  <Project Path="Q22/Q22.vcxproj" Id="63e1c5d1-30f5-471a-a1f1-cf5afe962ee7" />
+  <Project Path="Q23/Q23.vcxproj" Id="5eb5ebd9-209e-479a-aaf6-186ea2c36838" />
+  <Project Path="Q24/Q24.vcxproj" Id="7e3451c4-eead-454e-b630-1f7fa9076c11" />
+  <Project Path="Q25/Q25.vcxproj" Id="9a0922ad-665e-4d0e-b4b4-acd505d4cde1" />
+  <Project Path="Q26/Q26.vcxproj" Id="4dcff1ff-903f-4785-ab50-91f286d82c92" />
+  <Project Path="Q27/Q27.vcxproj" Id="6bdc02de-b7f4-439b-9bf7-0f127b8aa825" />
+  <Project Path="Q28/Q28.vcxproj" Id="13fc453f-113b-4b15-ae20-e5460f5efc3d" />
+  <Project Path="Q29/Q29.vcxproj" Id="d0f090fa-79a8-4884-803c-05c66bee4709" />
+  <Project Path="Q3/Q3.vcxproj" Id="2df3fcaa-33fd-4614-ad86-971ea5760e17" />
+  <Project Path="Q30/Q30.vcxproj" Id="33692b24-6218-48d4-84a9-601fbf7afc3c" />
+  <Project Path="Q31/Q31.vcxproj" Id="51e1e5ca-1cdb-4803-9776-ed8d275f4256" />
+  <Project Path="Q32/Q32.vcxproj" Id="15d9d8f9-a41c-46ab-b7b4-feccb813201b" />
+  <Project Path="Q33/Q33.vcxproj" Id="e2212048-45f1-4bc3-a028-cbba339d859d" />
+  <Project Path="Q34/Q34.vcxproj" Id="c699885e-5c60-4505-bcd7-a2c959e11e2b" />
+  <Project Path="Q35/Q35.vcxproj" Id="c3c43df5-546b-4500-8d7a-3dcec9934396" />
+  <Project Path="Q4/Q4.vcxproj" Id="bbfda374-cc6f-4c49-8e73-374a87e5e21a" />
+  <Project Path="Q5/Q5.vcxproj" Id="1a2158a8-ed27-4d4a-96eb-58b149896598" />
+  <Project Path="Q6/Q6.vcxproj" Id="041472c5-8941-448d-81b1-a66b41690ea6" />
+  <Project Path="Q7/Q7.vcxproj" Id="d88ccc77-3ea1-48b9-8727-4b10b3f94e43" />
+  <Project Path="Q8/Q8.vcxproj" Id="59aae7ce-bcae-4d7b-8569-e981a2fbab66" />
+  <Project Path="Q9/Q9.vcxproj" Id="6eab75af-53d5-447d-81d5-d076cbe1bed4" />
+</Solution>

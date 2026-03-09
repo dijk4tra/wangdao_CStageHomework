@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day06_basic_指针和数组\01_指针基础\main.c(16,10): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+C:\Users\liwenshuo\source\repos\Day06_basic_指针和数组\01_指针基础\main.c(22,10): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+C:\Users\liwenshuo\source\repos\Day06_basic_指针和数组\01_指针基础\main.c(25,10): warning C4047: “初始化”:“int *”与“int **”的间接级别不同
+  01_指针基础.vcxproj -> C:\Users\liwenshuo\source\repos\Day06_basic_指针和数组\Debug\01_指针基础.exe

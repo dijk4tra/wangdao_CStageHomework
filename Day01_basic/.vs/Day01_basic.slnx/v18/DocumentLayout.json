@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liwenshuo\\source\\repos\\Day01_basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD85437C-81D7-4B52-B0C3-D4BB73980437}|10_\u51FD\u6570\u4F4D\u7F6E\\10_\u51FD\u6570\u4F4D\u7F6E.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day01_basic\\10_\u51FD\u6570\u4F4D\u7F6E\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD85437C-81D7-4B52-B0C3-D4BB73980437}|10_\u51FD\u6570\u4F4D\u7F6E\\10_\u51FD\u6570\u4F4D\u7F6E.vcxproj|solutionrelative:10_\u51FD\u6570\u4F4D\u7F6E\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day01_basic\\10_\u51FD\u6570\u4F4D\u7F6E\\main.c",
+              "RelativeDocumentMoniker": "10_\u51FD\u6570\u4F4D\u7F6E\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day01_basic\\10_\u51FD\u6570\u4F4D\u7F6E\\main.c",
+              "RelativeToolTip": "10_\u51FD\u6570\u4F4D\u7F6E\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-26T06:22:38.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_预处理/01_预处理.vcxproj" Id="6720efa5-7766-4ace-99e7-659c5faf74cd" />
+  <Project Path="02_编译/02_编译.vcxproj" Id="b1c9876f-6e83-4d44-ac09-f5c53cd8a490" />
+  <Project Path="03_整体过程/03_整体过程.vcxproj" Id="fb8dbe86-8efe-44cd-a5e1-cd155d8f07df" />
+  <Project Path="04_虚拟内存地址/04_虚拟内存地址.vcxproj" Id="8af69a45-2f77-4cf3-b9a9-d66b3b7b4c11" />
+  <Project Path="05_存储方式/05_存储方式.vcxproj" Id="ff92fa42-fdb3-4530-926e-519e44409662" />
+  <Project Path="06_调试前准备/06_调试前准备.vcxproj" Id="be64b32a-1a66-4a1c-8aee-ea3fb49369ed" />
+  <Project Path="07_调试/07_调试.vcxproj" Id="90d2e882-afac-45e6-a423-ea74a16a58f5" />
+  <Project Path="08_调试/08_调试.vcxproj" Id="dedeefbb-c317-4dee-ac7d-1e3686dcb9f1" />
+  <Project Path="09_printf/09_printf.vcxproj" Id="5c34efbd-d694-4007-9d85-2e2faab8cf16" />
+  <Project Path="10_printf/10_printf.vcxproj" Id="ddce7c38-8575-4ab9-878f-b0608e8725aa" />
+  <Project Path="11_scanf/11_scanf.vcxproj" Id="c0e1e62c-7e11-471b-8937-6ac9c63c0d7f" />
+  <Project Path="12_scanf/12_scanf.vcxproj" Id="dccacb1c-160f-4cf5-bafa-f63732c72d10" />
+  <Project Path="13_fprintf/13_fprintf.vcxproj" Id="f7b0bcd8-3493-478c-b6c8-277a85bb4249" />
+  <Project Path="14_sizeof/14_sizeof.vcxproj" Id="5233907b-3f82-45b1-a9cd-27a0f4852f0c" />
+  <Project Path="15_整形/15_整形.vcxproj" Id="fdc0aa8e-88a2-457a-ae9c-e497842cc8b7" />
+  <Project Path="16_读写整数/16_读写整数.vcxproj" Id="331713cf-d677-45e7-8bae-8a0cde24a9e5" />
+  <Project Path="17_浮点数/17_浮点数.vcxproj" Id="5a9cd51d-bf77-4b42-9bcc-205d39e908c4" />
+  <Project Path="18_字符型/18_字符型.vcxproj" Id="30b01343-10d0-49e1-8df9-1901289074cf" />
+  <Project Path="19_getchar/19_getchar.vcxproj" Id="1efbc4fd-e26a-42c0-aa96-b9fa33818872" />
+  <Project Path="20_函数使用/20_函数使用.vcxproj" Id="97994d14-5546-48c9-b46d-06e05fed6d76" />
+  <Project Path="21_字符型/21_字符型.vcxproj" Id="51dc9268-7cc4-4bb3-871b-5eb066fb4d97" />
+  <Project Path="22_隐式类型转换/22_隐式类型转换.vcxproj" Id="b61aac7e-e91a-4b02-8ad7-ff24a5e2ae91" />
+  <Project Path="23_强制类型转换/23_强制类型转换.vcxproj" Id="2d480921-5e87-475d-8cc4-94d24a81352c" />
+  <Project Path="24_类型别名/24_类型别名.vcxproj" Id="9ab3950d-2ee0-4c60-bd6e-38530ded1dcd" />
+  <Project Path="25_布尔/25_布尔.vcxproj" Id="48758f5c-361d-4c5d-86d7-2b2a59d5910e" />
+  <Project Path="26_左移/26_左移.vcxproj" Id="54cd41d8-885e-428a-b83e-1fa21a2bf772" />
+  <Project Path="27_2的幂次方/27_2的幂次方.vcxproj" Id="b5baefda-8c96-4bc0-9f06-2200ff4097f7" />
+  <Project Path="28_LSB/28_LSB.vcxproj" Id="6a10a0bd-6fc4-4911-9225-6d28efea51a9" />
+  <Project Path="29_三目运算符/29_三目运算符.vcxproj" Id="063e622b-ff18-4352-9a42-05d86f100542" />
+  <Project Path="30_循环/30_循环.vcxproj" Id="22b15a9a-0877-44bb-8b41-20dd036ca96a" />
+</Solution>

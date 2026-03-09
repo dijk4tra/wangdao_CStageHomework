@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day05_basic_函数\01_作业\main.c(28,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  01_作业.vcxproj -> C:\Users\liwenshuo\source\repos\Day05_basic_函数\Debug\01_作业.exe

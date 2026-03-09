@@ -1,0 +1,25 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_字面值问题/01_字面值问题.vcxproj" />
+  <Project Path="02_作业1/02_作业1.vcxproj" />
+  <Project Path="03_作业2/03_作业2.vcxproj" />
+  <Project Path="04_作业3/04_作业3.vcxproj" />
+  <Project Path="05_作业4/05_作业4.vcxproj" />
+  <Project Path="06_作业5/06_作业5.vcxproj" />
+  <Project Path="07_calloc/07_calloc.vcxproj" />
+  <Project Path="08_realloc/08_realloc.vcxproj" />
+  <Project Path="11_头文件/11_头文件.vcxproj" />
+  <Project Path="12_头文件保护性语法/12_头文件保护性语法.vcxproj" />
+  <Project Path="13_头文件保护性语法/13_头文件保护性语法.vcxproj" />
+  <Project Path="14_vector/14_vector.vcxproj" />
+  <Project Path="15_vector/15_vector.vcxproj" />
+  <Project Path="16_vector/16_vector.vcxproj" />
+  <Project Path="17_函数指针声明/17_函数指针声明.vcxproj" />
+  <Project Path="18_函数指针别名/18_函数指针别名.vcxproj" />
+  <Project Path="19_函数指针初始化/19_函数指针初始化.vcxproj" />
+  <Project Path="20_函数指针的作用/20_函数指针的作用.vcxproj" />
+  <Project Path="21_qsort/21_qsort.vcxproj" />
+</Solution>

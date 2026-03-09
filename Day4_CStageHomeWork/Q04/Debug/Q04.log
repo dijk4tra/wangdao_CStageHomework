@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day4_CStageHomeWork\Q04\main.c(18,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Q04.vcxproj -> C:\Users\liwenshuo\source\repos\Day4_CStageHomeWork\Debug\Q04.exe

@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A631BC3E-6B09-42A0-84DC-241B6D909EDC}|\u6269\u5C55_01_\u5355\u94FE\u8868\\\u6269\u5C55_01_\u5355\u94FE\u8868.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_01_\u5355\u94FE\u8868\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A631BC3E-6B09-42A0-84DC-241B6D909EDC}|\u6269\u5C55_01_\u5355\u94FE\u8868\\\u6269\u5C55_01_\u5355\u94FE\u8868.vcxproj|solutionrelative:\u6269\u5C55_01_\u5355\u94FE\u8868\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E49249-CF6A-4E26-8FCB-A4092372799C}|\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C\\\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25E49249-CF6A-4E26-8FCB-A4092372799C}|\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C\\\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C.vcxproj|solutionrelative:\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62DFB9B-8C84-4AAF-8F23-B05CBA6F8DC5}|\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217\\\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D62DFB9B-8C84-4AAF-8F23-B05CBA6F8DC5}|\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217\\\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217.vcxproj|solutionrelative:\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284624C7-DDBB-4CE5-9B80-349A580575FA}|\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808\\\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{284624C7-DDBB-4CE5-9B80-349A580575FA}|\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808\\\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808.vcxproj|solutionrelative:\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC835733-D4A9-4CFA-A0C1-F7328208FE65}|\u6269\u5C55_02_\u5355\u94FE\u8868\\\u6269\u5C55_02_\u5355\u94FE\u8868.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_02_\u5355\u94FE\u8868\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC835733-D4A9-4CFA-A0C1-F7328208FE65}|\u6269\u5C55_02_\u5355\u94FE\u8868\\\u6269\u5C55_02_\u5355\u94FE\u8868.vcxproj|solutionrelative:\u6269\u5C55_02_\u5355\u94FE\u8868\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C\\main.c",
+              "RelativeDocumentMoniker": "\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C\\main.c",
+              "RelativeToolTip": "\u6269\u5C55_05_\u5B57\u7B26\u4E32\u62EC\u53F7\u7684\u5339\u914D\u6821\u9A8C\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-09T03:07:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217\\main.c",
+              "RelativeDocumentMoniker": "\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217\\main.c",
+              "RelativeToolTip": "\u6269\u5C55_04_\u52A8\u6001\u6570\u7EC4\u961F\u5217\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-09T03:07:03.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808\\main.c",
+              "RelativeDocumentMoniker": "\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808\\main.c",
+              "RelativeToolTip": "\u6269\u5C55_03_\u52A8\u6001\u6570\u7EC4\u6808\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-09T03:07:01.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_02_\u5355\u94FE\u8868\\main.c",
+              "RelativeDocumentMoniker": "\u6269\u5C55_02_\u5355\u94FE\u8868\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_02_\u5355\u94FE\u8868\\main.c",
+              "RelativeToolTip": "\u6269\u5C55_02_\u5355\u94FE\u8868\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-09T03:06:58.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_01_\u5355\u94FE\u8868\\main.c",
+              "RelativeDocumentMoniker": "\u6269\u5C55_01_\u5355\u94FE\u8868\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day12_CStageHomeWork\\\u6269\u5C55_01_\u5355\u94FE\u8868\\main.c",
+              "RelativeToolTip": "\u6269\u5C55_01_\u5355\u94FE\u8868\\main.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-09T03:06:57.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

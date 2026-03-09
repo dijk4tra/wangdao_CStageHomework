@@ -1,0 +1,23 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_指针复习/01_指针复习.vcxproj" Id="e7560e9d-833f-44da-a507-977c8d5726e6" />
+  <Project Path="02_二级指针/02_二级指针.vcxproj" Id="32a4b571-fa09-40e6-b231-25bb6d990970" />
+  <Project Path="03_指针数组和数组指针/03_指针数组和数组指针.vcxproj" Id="6385c612-0d8a-4e53-a478-ee40d79bd7e9" />
+  <Project Path="04_const/04_const.vcxproj" Id="8d19840d-f710-42ff-87df-3aaf12ce8258" />
+  <Project Path="05_matrix/05_matrix.vcxproj" Id="6930f081-251b-4f70-8f8f-81688b5ae5a9" />
+  <Project Path="06_指针传参/06_指针传参.vcxproj" Id="33abac9e-990f-46ee-a416-cbcd7fb394e5" />
+  <Project Path="07_scanf的传参/07_scanf的传参.vcxproj" Id="f1213996-b87b-4a8b-adea-81001c47fd32" />
+  <Project Path="08_指针作为返回值/08_指针作为返回值.vcxproj" Id="bd12a9a9-e681-4d78-a46b-f066acf2ee32" />
+  <Project Path="09_数组的遍历方式/09_数组的遍历方式.vcxproj" Id="c8ae67f7-3293-41d8-a093-b8a665eec2b9" />
+  <Project Path="10_字符串/10_字符串.vcxproj" Id="884b7128-2310-4224-9426-c0f4a0ecfd88" />
+  <Project Path="11_0/11_0.vcxproj" Id="e743c416-5bcd-4feb-b158-b3ce6202571d" />
+  <Project Path="12_字符串字面值/12_字符串字面值.vcxproj" Id="0c41b973-1d9e-4e8b-91d6-f9e9d8c65a9e" />
+  <Project Path="13_字符串声明方式/13_字符串声明方式.vcxproj" Id="e518cd66-c330-4f47-9bee-cc11868f71c9" />
+  <Project Path="14_字符串初始化/14_字符串初始化.vcxproj" Id="3d2d79f7-aa28-430f-ac8e-000ae67e8217" />
+  <Project Path="15_字符串遍历/15_字符串遍历.vcxproj" Id="802fc10f-d0a7-49dd-a3f2-5ab3339c5c99" />
+  <Project Path="16_字符串输入/16_字符串输入.vcxproj" Id="ff0446ec-f8ca-49fd-b3e9-23229e9c8174" />
+  <Project Path="17_字符串库函数/17_字符串库函数.vcxproj" Id="3ba19a3a-ce1f-41f1-8308-ab064bd7b5ae" />
+</Solution>

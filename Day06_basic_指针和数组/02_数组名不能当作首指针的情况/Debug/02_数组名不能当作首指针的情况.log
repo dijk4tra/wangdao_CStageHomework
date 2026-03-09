@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day06_basic_指针和数组\02_数组名不能当作首指针的情况\main.c(24,10): warning C4047: “初始化”:“int *”与“char (*)[5]”的间接级别不同
+  02_数组名不能当作首指针的情况.vcxproj -> C:\Users\liwenshuo\source\repos\Day06_basic_指针和数组\Debug\02_数组名不能当作首指针的情况.exe

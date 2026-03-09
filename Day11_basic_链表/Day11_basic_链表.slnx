@@ -1,0 +1,19 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_函数指针/01_函数指针.vcxproj" Id="cfb16788-19b9-4c89-a808-26e85b0a6bbf" />
+  <Project Path="02_qsort/02_qsort.vcxproj" Id="bdc04796-0e32-4d63-8b9f-a765723ab88a" />
+  <Project Path="03_数组/03_数组.vcxproj" Id="6541c847-8e03-48e1-98ca-b4fa12e1b56e" />
+  <Project Path="04_链表/04_链表.vcxproj" Id="22ba06eb-59f9-4535-a66e-d9a53375255f" />
+  <Project Path="05_链表的表示方式/05_链表的表示方式.vcxproj" Id="132502ca-6a08-4ae1-b16d-c7c5185e187e" />
+  <Project Path="06_链表实现/06_链表实现.vcxproj" Id="60460c8e-bcf2-412b-9745-59dd4670450c" />
+  <Project Path="07_链表是否有环/07_链表是否有环.vcxproj" Id="0e7a5998-c7e7-4289-993d-a86718d7eb33" />
+  <Project Path="08-单向链表反转/08-单向链表反转.vcxproj" Id="8fd92445-1685-433d-9a0d-b5d13fe58185" />
+  <Project Path="09_链表_ai/09_链表_ai.vcxproj" Id="67934112-e4b8-4f11-a4a5-a436ecd4a0af" />
+  <Project Path="10_链表_ai/10_链表_ai.vcxproj" Id="847c1c33-0006-4398-b63c-42e046484bde" />
+  <Project Path="11_ai使用/11_ai使用.vcxproj" Id="861a22eb-91e3-4537-a396-e2a3a680c691" />
+  <Project Path="12_队列/12_队列.vcxproj" Id="b5e71edd-aa72-4f21-b805-9202fd505bd9" />
+  <Project Path="13_B树/13_B树.vcxproj" Id="8ce2912b-ad6e-4008-8760-9dd374654062" />
+</Solution>

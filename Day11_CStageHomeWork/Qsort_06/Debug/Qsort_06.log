@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day11_CStageHomeWork\Qsort_06\main.c(35,30): warning C4013: “malloc”未定义；假设外部返回 int
+  Qsort_06.vcxproj -> C:\Users\liwenshuo\source\repos\Day11_CStageHomeWork\Debug\Qsort_06.exe

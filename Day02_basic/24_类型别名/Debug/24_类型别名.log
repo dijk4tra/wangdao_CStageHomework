@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day02_basic\24_类型别名\main.c(43,8): warning C4091: “ ”: 没有声明变量时忽略“signed char”的左侧
+C:\Users\liwenshuo\source\repos\Day02_basic\24_类型别名\main.c(45,9): warning C4091: “ ”: 没有声明变量时忽略“short”的左侧
+C:\Users\liwenshuo\source\repos\Day02_basic\24_类型别名\main.c(47,9): warning C4091: “ ”: 没有声明变量时忽略“int”的左侧
+C:\Users\liwenshuo\source\repos\Day02_basic\24_类型别名\main.c(49,10): warning C4091: “ ”: 没有声明变量时忽略“unsigned int”的左侧
+  24_类型别名.vcxproj -> C:\Users\liwenshuo\source\repos\Day02_basic\Debug\24_类型别名.exe

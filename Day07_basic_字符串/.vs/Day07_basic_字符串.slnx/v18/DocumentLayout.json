@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6385C612-0D8A-4E53-A478-EE40D79BD7E9}|03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488\\03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6385C612-0D8A-4E53-A478-EE40D79BD7E9}|03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488\\03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488.vcxproj|solutionrelative:03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D19840D-F710-42FF-87DF-3AAF12CE8258}|04_const\\04_const.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\04_const\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D19840D-F710-42FF-87DF-3AAF12CE8258}|04_const\\04_const.vcxproj|solutionrelative:04_const\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A4B571-FA09-40E6-B231-25BB6D990970}|02_\u4E8C\u7EA7\u6307\u9488\\02_\u4E8C\u7EA7\u6307\u9488.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\02_\u4E8C\u7EA7\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32A4B571-FA09-40E6-B231-25BB6D990970}|02_\u4E8C\u7EA7\u6307\u9488\\02_\u4E8C\u7EA7\u6307\u9488.vcxproj|solutionrelative:02_\u4E8C\u7EA7\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\04_const\\main.c",
+              "RelativeDocumentMoniker": "04_const\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\04_const\\main.c",
+              "RelativeToolTip": "04_const\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T06:30:16.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488\\main.c",
+              "RelativeToolTip": "03_\u6307\u9488\u6570\u7EC4\u548C\u6570\u7EC4\u6307\u9488\\main.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T06:29:50.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\02_\u4E8C\u7EA7\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "02_\u4E8C\u7EA7\u6307\u9488\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day07_basic_\u5B57\u7B26\u4E32\\02_\u4E8C\u7EA7\u6307\u9488\\main.c",
+              "RelativeToolTip": "02_\u4E8C\u7EA7\u6307\u9488\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T06:27:38.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

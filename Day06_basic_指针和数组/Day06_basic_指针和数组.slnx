@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_指针基础/01_指针基础.vcxproj" Id="627c8e1d-055e-42c4-b4da-9f7611110525" />
+  <Project Path="02_数组名不能当作首指针的情况/02_数组名不能当作首指针的情况.vcxproj" Id="b9b5c4e7-1278-459f-8c6f-3b4c6e0ba8f3" />
+  <Project Path="03_数组作为参数传递/03_数组作为参数传递.vcxproj" Id="c616c245-c60c-4725-abbb-c592f5d01d0c" />
+  <Project Path="04_数组传参联系/04_数组传参联系.vcxproj" Id="012a9645-cb26-42a7-8f31-0f79010bdea2" />
+  <Project Path="05_数组传参练习/05_数组传参练习.vcxproj" Id="1576cebd-d8dc-468e-9664-002f04ae498a" />
+  <Project Path="06_指针算术运算/06_指针算术运算.vcxproj" Id="4de984e2-32c1-4bac-b48a-51fab3eb2221" />
+</Solution>

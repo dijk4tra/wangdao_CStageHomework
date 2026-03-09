@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="扩展01_检测单链表是否有环/扩展01_检测单链表是否有环.vcxproj" />
+  <Project Path="扩展02_在数组中找出和为目标值的两个整数/扩展02_在数组中找出和为目标值的两个整数.vcxproj" />
+  <Project Path="扩展03_两数相加/扩展03_两数相加.vcxproj" />
+  <Project Path="扩展04_有效的括号/扩展04_有效的括号.vcxproj" />
+  <Project Path="扩展05_加一/扩展05_加一.vcxproj" />
+  <Project Path="扩展06_合并两个有序数组/扩展06_合并两个有序数组.vcxproj" />
+</Solution>

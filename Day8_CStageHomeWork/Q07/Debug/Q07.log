@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day8_CStageHomeWork\Q07\main.c(30,12): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\liwenshuo\source\repos\Day8_CStageHomeWork\Q07\main.c(48,12): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“int”
+      C:\Users\liwenshuo\source\repos\Day8_CStageHomeWork\Q07\main.c(48,12):
+      请考虑在格式字符串中使用“%d”
+      C:\Users\liwenshuo\source\repos\Day8_CStageHomeWork\Q07\main.c(48,12):
+      请考虑在格式字符串中使用“%Id”
+      C:\Users\liwenshuo\source\repos\Day8_CStageHomeWork\Q07\main.c(48,12):
+      请考虑在格式字符串中使用“%I32d”
+  
+  Q07.vcxproj -> C:\Users\liwenshuo\source\repos\Day8_CStageHomeWork\Debug\Q07.exe

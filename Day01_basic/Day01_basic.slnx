@@ -1,0 +1,19 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_注释/01_注释.vcxproj" Id="3c695cee-3875-450d-9f1f-6dcc4f57d78f" />
+  <Project Path="02_测试/02_测试.vcxproj" Id="ff4c9b01-b26b-4beb-86e1-9b9333b6d108" />
+  <Project Path="03_标识符强制要求/03_标识符强制要求.vcxproj" Id="03e5553c-386e-45e4-a68c-cb4b542abd55" />
+  <Project Path="04_标识符好的习惯/04_标识符好的习惯.vcxproj" Id="f75d71a7-7343-4be6-8466-b464e2d59a59" />
+  <Project Path="05_局部变量/05_局部变量.vcxproj" Id="c4ae8985-94db-49b9-8bc3-94d6667d5aec" />
+  <Project Path="06_局部变量/06_局部变量.vcxproj" Id="a73625d1-e67b-4809-b5b1-ff8b1e928058" />
+  <Project Path="07_局部变量/07_局部变量.vcxproj" Id="7334c897-c44b-426f-8707-370b5466ea6a" />
+  <Project Path="08_函数/08_函数.vcxproj" Id="ae561463-10fb-4e7b-9bc0-6c5195cceb42" />
+  <Project Path="09_函数注意事项/09_函数注意事项.vcxproj" Id="4a31b25a-5403-4a24-a558-a7364db59d4e" />
+  <Project Path="10_函数位置/10_函数位置.vcxproj" Id="fd85437c-81d7-4b52-b0c3-d4bb73980437" />
+  <Project Path="11_函数调用/11_函数调用.vcxproj" Id="1c425b59-e41c-48cf-84fb-37a19e2f639d" />
+  <Project Path="12_函数调用/12_函数调用.vcxproj" Id="7497b5f7-4e8e-4b05-88aa-b4c6b01aeb0e" />
+  <Project Path="13_预处理步骤/13_预处理步骤.vcxproj" Id="a9ffbab9-29db-4d02-b618-e85af93d02d2" />
+</Solution>

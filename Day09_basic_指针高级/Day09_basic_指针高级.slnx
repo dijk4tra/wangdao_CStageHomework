@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_复习/01_复习.vcxproj" Id="8111e381-3110-412f-97f3-06678ef435bd" />
+  <Project Path="02_通用指针/02_通用指针.vcxproj" Id="0aa891ef-2420-4298-82ed-3d1dcf0cf44e" />
+  <Project Path="03_malloc/03_malloc.vcxproj" Id="109bcd0b-4644-413e-88fb-2b8c58a63826" />
+  <Project Path="04_free/04_free.vcxproj" Id="0d1a9afc-bbc2-4978-948e-5e0a96dd2a76" />
+  <Project Path="05_doublefree/05_doublefree.vcxproj" Id="44bd576d-ac5f-47e9-8807-c13e755b35d1" />
+  <Project Path="06_使用完成之后再free/06_使用完成之后再free.vcxproj" Id="cb8b5c9b-d7f2-4e9b-bdce-62418d67514e" />
+  <Project Path="07_free出错了怎么办/07_free出错了怎么办.vcxproj" Id="dd43df15-df8a-4bed-896d-aaf4b47e3c68" />
+</Solution>

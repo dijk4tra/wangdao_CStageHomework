@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_哈希表/01_哈希表.vcxproj" Id="b561139a-c007-4329-ac0a-d3676df8006e" />
+  <Project Path="02_哈希表实现/02_哈希表实现.vcxproj" Id="10581d91-15bf-4c67-9f03-cfdcbebf30cf" />
+  <Project Path="03_负载因子/03_负载因子.vcxproj" Id="36c8cc3f-7c82-4e5b-9a65-9b52c54c6895" />
+  <Project Path="04_动态哈希表/04_动态哈希表.vcxproj" Id="77b4dbf3-f4bb-4cfa-b2c9-e8e18a1f54b1" />
+</Solution>

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day11_CStageHomeWork\LinkedList_03\main.c(24,22): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\liwenshuo\source\repos\Day11_CStageHomeWork\LinkedList_03\main.c(24,11): warning C4047: “初始化”:“Node *”与“int”的间接级别不同
+C:\Users\liwenshuo\source\repos\Day11_CStageHomeWork\LinkedList_03\main.c(88,9): warning C4013: “free”未定义；假设外部返回 int
+  LinkedList_03.vcxproj -> C:\Users\liwenshuo\source\repos\Day11_CStageHomeWork\Debug\LinkedList_03.exe

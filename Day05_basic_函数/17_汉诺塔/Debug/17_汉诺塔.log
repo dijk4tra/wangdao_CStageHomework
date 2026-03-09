@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day05_basic_函数\17_汉诺塔\main.c(43,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+      C:\Users\liwenshuo\source\repos\Day05_basic_函数\17_汉诺塔\main.c(43,12):
+      请考虑在格式字符串中使用“%lld”
+      C:\Users\liwenshuo\source\repos\Day05_basic_函数\17_汉诺塔\main.c(43,12):
+      请考虑在格式字符串中使用“%I64d”
+  
+  17_汉诺塔.vcxproj -> C:\Users\liwenshuo\source\repos\Day05_basic_函数\Debug\17_汉诺塔.exe

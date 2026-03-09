@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day05_basic_函数\12_全局变量\main.c(18,5): warning C4013: “test1111”未定义；假设外部返回 int
+  test1.c
+  正在生成代码...
+  12_全局变量.vcxproj -> C:\Users\liwenshuo\source\repos\Day05_basic_函数\Debug\12_全局变量.exe

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\liwenshuo\source\repos\Day02_basic\22_隐式类型转换\main.c(49,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\liwenshuo\source\repos\Day02_basic\22_隐式类型转换\main.c(50,11): warning C4244: “初始化”: 从“float”转换到“char”，可能丢失数据
+C:\Users\liwenshuo\source\repos\Day02_basic\22_隐式类型转换\main.c(52,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  22_隐式类型转换.vcxproj -> C:\Users\liwenshuo\source\repos\Day02_basic\Debug\22_隐式类型转换.exe

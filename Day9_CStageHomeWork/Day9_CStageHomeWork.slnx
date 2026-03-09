@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Q10/Q10.vcxproj" Id="a7d03eeb-ac3e-48b7-ba3b-6712149b0ca3" />
+  <Project Path="Q11/Q11.vcxproj" Id="c9b5d18c-32ae-4dfa-8e86-0a43ad0d3190" />
+  <Project Path="Q12/Q12.vcxproj" Id="da9c089a-6491-46e1-9fc2-6661a55fe375" />
+</Solution>

@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D5B93F-42C2-4B88-8BDE-86E899D3FD2F}|09_sprintf\\09_sprintf.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\09_sprintf\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64D5B93F-42C2-4B88-8BDE-86E899D3FD2F}|09_sprintf\\09_sprintf.vcxproj|solutionrelative:09_sprintf\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD42D60-A7A2-4199-80E3-E8A89AD01BD2}|16_\u679A\u4E3E\\16_\u679A\u4E3E.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\16_\u679A\u4E3E\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAD42D60-A7A2-4199-80E3-E8A89AD01BD2}|16_\u679A\u4E3E\\16_\u679A\u4E3E.vcxproj|solutionrelative:16_\u679A\u4E3E\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807DB24F-6FAF-40D8-A3C9-3ABBA55962D3}|15_\u679A\u4E3E\\15_\u679A\u4E3E.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\15_\u679A\u4E3E\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{807DB24F-6FAF-40D8-A3C9-3ABBA55962D3}|15_\u679A\u4E3E\\15_\u679A\u4E3E.vcxproj|solutionrelative:15_\u679A\u4E3E\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09892F0C-E853-4B25-B9AF-496FFAD79718}|14_\u7ED3\u6784\u4F53\u6307\u9488\\14_\u7ED3\u6784\u4F53\u6307\u9488.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\14_\u7ED3\u6784\u4F53\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09892F0C-E853-4B25-B9AF-496FFAD79718}|14_\u7ED3\u6784\u4F53\u6307\u9488\\14_\u7ED3\u6784\u4F53\u6307\u9488.vcxproj|solutionrelative:14_\u7ED3\u6784\u4F53\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD32045-1393-416B-B727-8796A7AC2147}|13_\u7ED3\u6784\u4F53\u6210\u5458\\13_\u7ED3\u6784\u4F53\u6210\u5458.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\13_\u7ED3\u6784\u4F53\u6210\u5458\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BD32045-1393-416B-B727-8796A7AC2147}|13_\u7ED3\u6784\u4F53\u6210\u5458\\13_\u7ED3\u6784\u4F53\u6210\u5458.vcxproj|solutionrelative:13_\u7ED3\u6784\u4F53\u6210\u5458\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6DE3C2-CA17-44CE-AE7D-9D986925BA34}|12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898\\12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD6DE3C2-CA17-44CE-AE7D-9D986925BA34}|12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898\\12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898.vcxproj|solutionrelative:12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDF45C5-5CF9-4CF4-91CA-F462062F52D2}|11_\u7ED3\u6784\u4F53\\11_\u7ED3\u6784\u4F53.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\11_\u7ED3\u6784\u4F53\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFDF45C5-5CF9-4CF4-91CA-F462062F52D2}|11_\u7ED3\u6784\u4F53\\11_\u7ED3\u6784\u4F53.vcxproj|solutionrelative:11_\u7ED3\u6784\u4F53\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ECC7A6-2086-4283-BE1F-B1C59A97C45E}|10_\u7ED3\u6784\u4F53\\10_\u7ED3\u6784\u4F53.vcxproj|C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\10_\u7ED3\u6784\u4F53\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99ECC7A6-2086-4283-BE1F-B1C59A97C45E}|10_\u7ED3\u6784\u4F53\\10_\u7ED3\u6784\u4F53.vcxproj|solutionrelative:10_\u7ED3\u6784\u4F53\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\16_\u679A\u4E3E\\main.c",
+              "RelativeDocumentMoniker": "16_\u679A\u4E3E\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\16_\u679A\u4E3E\\main.c",
+              "RelativeToolTip": "16_\u679A\u4E3E\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T09:41:35.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\15_\u679A\u4E3E\\main.c",
+              "RelativeDocumentMoniker": "15_\u679A\u4E3E\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\15_\u679A\u4E3E\\main.c",
+              "RelativeToolTip": "15_\u679A\u4E3E\\main.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T09:33:49.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\14_\u7ED3\u6784\u4F53\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "14_\u7ED3\u6784\u4F53\u6307\u9488\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\14_\u7ED3\u6784\u4F53\u6307\u9488\\main.c",
+              "RelativeToolTip": "14_\u7ED3\u6784\u4F53\u6307\u9488\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T09:23:16.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\13_\u7ED3\u6784\u4F53\u6210\u5458\\main.c",
+              "RelativeDocumentMoniker": "13_\u7ED3\u6784\u4F53\u6210\u5458\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\13_\u7ED3\u6784\u4F53\u6210\u5458\\main.c",
+              "RelativeToolTip": "13_\u7ED3\u6784\u4F53\u6210\u5458\\main.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T09:13:08.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898\\main.c",
+              "RelativeDocumentMoniker": "12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898\\main.c",
+              "RelativeToolTip": "12_\u7ED3\u6784\u4F53\u5185\u5B58\u95EE\u9898\\main.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T08:39:32.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\11_\u7ED3\u6784\u4F53\\main.c",
+              "RelativeDocumentMoniker": "11_\u7ED3\u6784\u4F53\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\11_\u7ED3\u6784\u4F53\\main.c",
+              "RelativeToolTip": "11_\u7ED3\u6784\u4F53\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T08:33:05.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\10_\u7ED3\u6784\u4F53\\main.c",
+              "RelativeDocumentMoniker": "10_\u7ED3\u6784\u4F53\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\10_\u7ED3\u6784\u4F53\\main.c",
+              "RelativeToolTip": "10_\u7ED3\u6784\u4F53\\main.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T08:19:27.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\09_sprintf\\main.c",
+              "RelativeDocumentMoniker": "09_sprintf\\main.c",
+              "ToolTip": "C:\\Users\\liwenshuo\\source\\repos\\Day08_basic_\u5B57\u7B26\u4E32\u0026\u7ED3\u6784\u4F53\\09_sprintf\\main.c",
+              "RelativeToolTip": "09_sprintf\\main.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-03T07:55:06.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
