@@ -1,3 +1,0 @@
-﻿  Q10.cpp
-C:\Users\liwenshuo\source\repos\CppHomework\Q10\Q10.cpp(6,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
-  Q10.vcxproj -> C:\Users\liwenshuo\source\repos\CppHomework\x64\Debug\Q10.exe

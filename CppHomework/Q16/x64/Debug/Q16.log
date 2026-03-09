@@ -1,3 +1,0 @@
-﻿  Q16.cpp
-C:\Users\liwenshuo\source\repos\CppHomework\Q16\Q16.cpp(11,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  Q16.vcxproj -> C:\Users\liwenshuo\source\repos\CppHomework\x64\Debug\Q16.exe

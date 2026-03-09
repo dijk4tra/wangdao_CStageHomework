@@ -1,3 +1,0 @@
-﻿  Q8.cpp
-C:\Users\liwenshuo\source\repos\CppHomework\Q8\Q8.cpp(13,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  Q8.vcxproj -> C:\Users\liwenshuo\source\repos\CppHomework\x64\Debug\Q8.exe
