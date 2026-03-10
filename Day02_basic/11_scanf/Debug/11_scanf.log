@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\liwenshuo\source\repos\Day02_basic\11_scanf\main.c(71,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
-C:\Users\liwenshuo\source\repos\Day02_basic\11_scanf\main.c(71,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
-  11_scanf.vcxproj -> C:\Users\liwenshuo\source\repos\Day02_basic\Debug\11_scanf.exe

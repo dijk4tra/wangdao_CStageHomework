@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_时间复杂度/01_时间复杂度.vcxproj" Id="e39f3b1a-7eb0-4a1f-8de5-b5304aeaec9b" />
+  <Project Path="02_选择排序/02_选择排序.vcxproj" Id="f7334f48-d276-4d3a-a12b-50ee79c693f7" />
+  <Project Path="03_冒泡排序/03_冒泡排序.vcxproj" Id="74902e7d-d58a-4df3-8575-954691343874" />
+  <Project Path="04_插入排序/04_插入排序.vcxproj" Id="588baf95-9329-4e49-a4fa-d490c40b9e5d" />
+  <Project Path="05_希尔排序/05_希尔排序.vcxproj" Id="cef77eb2-c79e-414d-a145-28f285c8bba8" />
+  <Project Path="06_合并有序数组/06_合并有序数组.vcxproj" Id="16431395-46a0-4169-81d8-2a01e16d30be" />
+</Solution>
