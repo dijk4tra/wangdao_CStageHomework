@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Q02_选择-冒泡排序/Q02_选择-冒泡排序.vcxproj" />
+</Solution>
