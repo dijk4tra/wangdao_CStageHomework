@@ -1,0 +1,22 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_字符串/01_字符串.vcxproj" Id="7f3efd15-ded5-418f-b0b4-3156f57d328e" />
+  <Project Path="02_字符串的遍历/02_字符串的遍历.vcxproj" Id="f1539e20-5446-4d91-8030-b79aa7f3b2d2" />
+  <Project Path="03_strlen/03_strlen.vcxproj" Id="e1497b11-2db2-46f6-91c4-c4de910be634" />
+  <Project Path="04_strcpy/04_strcpy.vcxproj" Id="145c64dd-c2de-459d-85ae-07d8c244662b" />
+  <Project Path="05_strcat/05_strcat.vcxproj" Id="5f604c30-3ffd-4d31-ba4e-72329445c480" />
+  <Project Path="06_strcmp/06_strcmp.vcxproj" Id="6c057fd3-d81a-4a80-9da5-91d5f94840d8" />
+  <Project Path="07_字符串数组/07_字符串数组.vcxproj" Id="072b1361-b05c-4c14-96e4-0b240b3fbca3" />
+  <Project Path="08_命令行参数/08_命令行参数.vcxproj" Id="798fa6af-44cf-4a62-b781-229794280db4" />
+  <Project Path="09_sprintf/09_sprintf.vcxproj" Id="64d5b93f-42c2-4b88-8bde-86e899d3fd2f" />
+  <Project Path="10_结构体/10_结构体.vcxproj" Id="99ecc7a6-2086-4283-be1f-b1c59a97c45e" />
+  <Project Path="11_结构体/11_结构体.vcxproj" Id="efdf45c5-5cf9-4cf4-91ca-f462062f52d2" />
+  <Project Path="12_结构体内存问题/12_结构体内存问题.vcxproj" Id="ad6de3c2-ca17-44ce-ae7d-9d986925ba34" />
+  <Project Path="13_结构体成员/13_结构体成员.vcxproj" Id="5bd32045-1393-416b-b727-8796a7ac2147" />
+  <Project Path="14_结构体指针/14_结构体指针.vcxproj" Id="09892f0c-e853-4b25-b9af-496ffad79718" />
+  <Project Path="15_枚举/15_枚举.vcxproj" Id="807db24f-6faf-40d8-a3c9-3abba55962d3" />
+  <Project Path="16_枚举/16_枚举.vcxproj" Id="ead42d60-a7a2-4199-80e3-e8a89ad01bd2" />
+</Solution>

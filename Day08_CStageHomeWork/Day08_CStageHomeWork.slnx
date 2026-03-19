@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Q03/Q03.vcxproj" Id="bdd90738-448a-4035-8f11-9657629e1a67" />
+  <Project Path="Q04/Q04.vcxproj" Id="e4310d80-54ed-4ff9-8e90-b2d03616bcaa" />
+  <Project Path="Q05/Q05.vcxproj" Id="3884dbf8-fcad-4a3a-ae0e-c2e88b31e3c7" />
+  <Project Path="Q06/Q06.vcxproj" Id="59f47ad1-bc3a-4c20-a058-551baa368c01" />
+  <Project Path="Q07/Q07.vcxproj" Id="149d5799-1871-4ff5-9117-2d12e3699c98" />
+  <Project Path="Q08/Q08.vcxproj" Id="6f326e41-9e82-444e-9926-562ee6337efc" />
+  <Project Path="Q09/Q09.vcxproj" Id="cc41525d-9236-497c-854a-fbc223c39951" />
+  <Project Path="Q10/Q10.vcxproj" Id="8388d840-8be5-4f17-ae91-71ca6e7c2bd4" />
+</Solution>

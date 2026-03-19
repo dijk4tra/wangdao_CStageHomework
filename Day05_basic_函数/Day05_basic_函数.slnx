@@ -1,0 +1,30 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_作业/01_作业.vcxproj" Id="348d7e62-1813-4822-b907-b40b82b5ef24" />
+  <Project Path="02_函数的作用/02_函数的作用.vcxproj" Id="bbd60940-659a-4bf4-bc09-70af3799523e" />
+  <Project Path="03_exit/03_exit.vcxproj" Id="b9283cfe-11d9-4d9e-aab4-473e0ca4a59b" />
+  <Project Path="04_栈/04_栈.vcxproj" Id="16ea2d1c-2571-42ed-acbf-709f08b234a1" />
+  <Project Path="05_函数调用/05_函数调用.vcxproj" Id="d8e30f3d-219d-45d9-8726-d1da4296594d" />
+  <Project Path="06_函数调用/06_函数调用.vcxproj" Id="ea4b6140-095d-472b-b829-8307d431b454" />
+  <Project Path="07_局部变量存储/07_局部变量存储.vcxproj" Id="4ee7967a-5f9c-4205-9255-6950d666cfec" />
+  <Project Path="08_局部变量的随机值/08_局部变量的随机值.vcxproj" Id="72d0037d-6831-4e48-b748-4abdda002a2e" />
+  <Project Path="09_局部变量生命周期/09_局部变量生命周期.vcxproj" Id="62cbb899-3a81-4b2c-aad4-9e54ed8809f6" />
+  <Project Path="10_局部变量/10_局部变量.vcxproj" Id="2135b682-d1a5-4b97-9b1c-b92cd26a4dbf" />
+  <Project Path="11_全局变量/11_全局变量.vcxproj" Id="4ceeb3a8-73b2-498b-8089-dbe236160019" />
+  <Project Path="12_全局变量/12_全局变量.vcxproj" Id="38c0bddd-9e14-4b3c-918f-ab33235c1dcf" />
+  <Project Path="13_静态局部变量/13_静态局部变量.vcxproj" Id="eee09abf-8211-4246-b81b-829e216eff3d" />
+  <Project Path="14_值传递/14_值传递.vcxproj" Id="9a109057-feaf-4081-bbc4-813cb8edbef1" />
+  <Project Path="15_递归/15_递归.vcxproj" Id="6f690efd-7639-4ad4-b24c-e82ee2f4d187" />
+  <Project Path="16_斐波那契/16_斐波那契.vcxproj" Id="b69bc6ea-8b03-4405-b6fc-2844a2a6c5d7" />
+  <Project Path="17_汉诺塔/17_汉诺塔.vcxproj" Id="0a6d48bb-37af-4cbd-82e4-ec3d62279ef7" />
+  <Project Path="18_内存地址/18_内存地址.vcxproj" Id="dcde10f4-6c44-4dd4-b773-3fced61b64fb" />
+  <Project Path="19_指针的基础使用/19_指针的基础使用.vcxproj" Id="5679934c-455a-450d-bc24-df80636e7d84" />
+  <Project Path="20_指针变量声明/20_指针变量声明.vcxproj" Id="d0bbbf90-ced4-44ca-8449-41f21b8da14e" />
+  <Project Path="21_指针初始化/21_指针初始化.vcxproj" Id="8a13eac3-711c-4356-9d5b-6e2a2084de5a" />
+  <Project Path="22_空指针/22_空指针.vcxproj" Id="f9808582-a1a1-4951-8191-e15e0ed0214e" />
+  <Project Path="23_野指针/23_野指针.vcxproj" Id="5ad14e10-e17f-4653-88b2-7922bf9a7633" />
+  <Project Path="24_值传递/24_值传递.vcxproj" Id="98bf63c3-9e57-48b6-ac34-5d40237f6f9a" />
+</Solution>

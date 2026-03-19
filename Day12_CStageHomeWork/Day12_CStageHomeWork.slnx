@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Q05_LinkedStack/Q05_LinkedStack.vcxproj" Id="911168ce-e22d-4c8c-acdd-be061b93ddfa" />
+  <Project Path="Q06_LinkedQueue/Q06_LinkedQueue.vcxproj" Id="ad90fecf-0a29-48c9-9102-ffadcdda3d8b" />
+  <Project Path="扩展_01_单链表/扩展_01_单链表.vcxproj" Id="a631bc3e-6b09-42a0-84dc-241b6d909edc" />
+  <Project Path="扩展_02_单链表/扩展_02_单链表.vcxproj" Id="fc835733-d4a9-4cfa-a0c1-f7328208fe65" />
+  <Project Path="扩展_03_动态数组栈/扩展_03_动态数组栈.vcxproj" Id="284624c7-ddbb-4ce5-9b80-349a580575fa" />
+  <Project Path="扩展_04_动态数组队列/扩展_04_动态数组队列.vcxproj" Id="d62dfb9b-8c84-4aaf-8f23-b05cba6f8dc5" />
+  <Project Path="扩展_05_字符串括号的匹配校验/扩展_05_字符串括号的匹配校验.vcxproj" Id="25e49249-cf6a-4e26-8fcb-a4092372799c" />
+</Solution>

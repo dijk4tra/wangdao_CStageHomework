@@ -1,0 +1,19 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_优先级/01_优先级.vcxproj" Id="e10d9f35-bc78-4d39-b031-4be2783f9b19" />
+  <Project Path="04_数组/04_数组.vcxproj" Id="7dba969e-f408-40c0-991b-19b82c80d6d6" />
+  <Project Path="05_链表/05_链表.vcxproj" Id="57e10fc9-9721-4002-b456-0f1ce6770ad9" />
+  <Project Path="06_数组的声明/06_数组的声明.vcxproj" Id="6efe4113-3322-4be6-b996-f6cc501fe1cc" />
+  <Project Path="07_数组的初始化/07_数组的初始化.vcxproj" Id="e77d0d5f-cf33-4312-9ef0-52dd30b14ec5" />
+  <Project Path="08_数组元素读取/08_数组元素读取.vcxproj" Id="209e94ce-afb5-44ad-a376-eeb8cabfe169" />
+  <Project Path="09_数组使用/09_数组使用.vcxproj" Id="bc3b3ae3-299f-43dc-a59b-95e61b478d90" />
+  <Project Path="10_局部变量数组/10_局部变量数组.vcxproj" Id="2f711588-3608-414d-920e-bf8af30f1ba1" />
+  <Project Path="11_二维数组/11_二维数组.vcxproj" Id="d56bd64f-0cb7-42a0-89c7-21d7d1e1977c" />
+  <Project Path="12_const/12_const.vcxproj" Id="078af68f-1812-4a7c-8f55-ec4b7e932d90" />
+  <Project Path="13_const/13_const.vcxproj" Id="bb4f21ff-a9ff-4857-938d-a9d14cc32112" />
+  <Project Path="14_随机数/14_随机数.vcxproj" Id="cd69c3cd-98b9-4dff-8a0e-e52acc66c854" />
+  <Project Path="15_发牌/15_发牌.vcxproj" Id="99af08a9-8594-47c1-80c2-c2f97535fd64" />
+</Solution>

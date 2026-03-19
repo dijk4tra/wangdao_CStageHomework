@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LinkedList_01/LinkedList_01.vcxproj" Id="32187ae8-e38c-4bfc-813c-9ad372b8212e" />
+  <Project Path="LinkedList_02/LinkedList_02.vcxproj" Id="f842a8e9-3c01-4370-8df6-48b5cc77e402" />
+  <Project Path="LinkedList_03/LinkedList_03.vcxproj" Id="f7f06834-04e8-423e-a025-9c4bff11233d" />
+  <Project Path="LinkedList_04/LinkedList_04.vcxproj" Id="5886c4f2-ad7e-4887-991d-7546c9f20806" />
+  <Project Path="Qsort_01/Qsort_01.vcxproj" Id="1de7f5c7-5d70-4b46-a4b9-8c49cdb7f2ac" />
+  <Project Path="Qsort_02/Qsort_02.vcxproj" Id="90c45d3c-5ab3-40b5-96b3-6ba031afb981" />
+  <Project Path="Qsort_03/Qsort_03.vcxproj" Id="8e7b05d3-888f-48e3-b117-f658391bdf50" />
+  <Project Path="Qsort_04/Qsort_04.vcxproj" Id="a2be9938-40b9-4e79-a186-a8be84cc9747" />
+  <Project Path="Qsort_05/Qsort_05.vcxproj" Id="93d7115c-4a24-4605-90bf-aa16e3956268" />
+  <Project Path="Qsort_06/Qsort_06.vcxproj" Id="687c3c79-e21e-412e-9371-061352cdde18" />
+</Solution>

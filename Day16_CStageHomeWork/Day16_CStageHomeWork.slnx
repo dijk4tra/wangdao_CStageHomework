@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Q02_文件流基础操作/Q02_文件流基础操作.vcxproj" Id="8b7065cc-e64e-4ce4-955d-6248cf2fee8c" />
+  <Project Path="Q03_文件内容读入并修改/Q03_文件内容读入并修改.vcxproj" Id="792090f7-6786-454a-a492-a17848810c9b" />
+  <Project Path="Q04_读文件及错误处理/Q04_读文件及错误处理.vcxproj" Id="c9d7dd0d-3d29-4ab9-ab81-d3c80f557142" />
+  <Project Path="Q05_简易文件拷贝功能/Q05_简易文件拷贝功能.vcxproj" Id="c8b06ce8-7d9b-42d7-8c1b-66cfa64ec82d" />
+  <Project Path="Q06_模拟网盘服务器/Q06_模拟网盘服务器.vcxproj" Id="93d28888-8242-4fb2-86a1-d8ff2fa27507" />
+  <Project Path="Q07_读写二进制数据/Q07_读写二进制数据.vcxproj" Id="e23b5cbf-5e0f-4cc2-9e99-c9d2ae52c524" />
+</Solution>

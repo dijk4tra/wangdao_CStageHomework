@@ -1,0 +1,23 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_文件流/01_文件流.vcxproj" Id="b9d9eb2e-8860-4207-b3dc-6f2c6b14def2" />
+  <Project Path="02_fopen/02_fopen.vcxproj" Id="d809599a-5b41-4587-8cb2-49ecea3483d6" />
+  <Project Path="03_路径/03_路径.vcxproj" Id="f1e9c936-0453-41f4-abdd-9a2191646ea5" />
+  <Project Path="04_文件流的标准步骤/04_文件流的标准步骤.vcxproj" Id="f49e154a-8c26-4409-99dd-be7f64b6d0ed" />
+  <Project Path="05_fgetc/05_fgetc.vcxproj" Id="2d4a1999-4df0-4365-bccc-00c040687189" />
+  <Project Path="06_fputc/06_fputc.vcxproj" Id="79897661-d696-4fdd-8cfa-f7dbcc2ebc96" />
+  <Project Path="07_copy/07_copy.vcxproj" Id="65292025-0835-4460-a57d-2fb072f44412" />
+  <Project Path="08_mode/08_mode.vcxproj" Id="8fadaa66-d67f-4fcb-b062-f0fd0d43b800" />
+  <Project Path="09_换行符/09_换行符.vcxproj" Id="9edb112c-6c74-4781-9033-6dc2a5cbc4d2" />
+  <Project Path="10_文件流/10_文件流.vcxproj" Id="4f374856-fd82-45f8-9458-27c04d430552" />
+  <Project Path="11_复制/11_复制.vcxproj" Id="34dcba2a-550a-4188-a929-18951f9c1648" />
+  <Project Path="12_fgets/12_fgets.vcxproj" Id="7dd8181a-805b-482f-93be-eebe619e2121" />
+  <Project Path="13_fprintf/13_fprintf.vcxproj" Id="7497b90e-f8a3-4e37-b3ef-4942d37df8d8" />
+  <Project Path="14_fscanf/14_fscanf.vcxproj" Id="ab47771a-aba8-4c76-aa69-02312aa83559" />
+  <Project Path="15_fwrite/15_fwrite.vcxproj" Id="011ae471-9bcc-42d5-a7d2-558ec05e3a87" />
+  <Project Path="16_错误处理/16_错误处理.vcxproj" Id="34c8a456-f19c-4ed2-9778-f54394ce9a6e" />
+  <Project Path="17_isoc/17_isoc.vcxproj" Id="13b44ea3-80b5-40c1-8643-a0451bdf675e" />
+</Solution>
